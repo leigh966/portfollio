@@ -1,0 +1,9 @@
+.centreHorisontal {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.centreText {
+  text-align: center;
+}
